@@ -303,9 +303,7 @@ Interactive web application built using Streamlit.
 
 Run locally:
 
-```bash
-streamlit run app/churn_app.py
-```
+https://customer-churn-prediction-dex.streamlit.app/
 
 ---
 
@@ -369,18 +367,16 @@ Main libraries used:
 
 # 📸 Screenshots
 
-Add screenshots of:
-
 - EDA Visualizations
+  
 - Model Performance
-- Streamlit Dashboard
+
 - Churn Prediction Results
 
-Store screenshots inside:
+- Streamlit Dashboard
+- 
+<img width="904" height="434" alt="Screenshot 2026-06-24 023523" src="https://github.com/user-attachments/assets/18374261-8b5c-41b7-a57f-2c9e675f79f6" />
 
-```text
-images/
-```
 
 ---
 
@@ -408,13 +404,13 @@ Skills:
 - Power BI
 - Machine Learning
 - AWS
-- PySpark
+- Ms-Excel
 
 GitHub:
 https://github.com/shivbrxt
 
 LinkedIn:
-(Add Your LinkedIn Profile)
+linkedin.com/in/shivbrat-singh-a475a1382
 
 ---
 
